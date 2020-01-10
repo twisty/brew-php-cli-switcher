@@ -23,5 +23,5 @@ Usage
 Where **5.6** exists, please replace with syntax of **5.6**, **7.0**, **7.1**, **7.2**, **7.3**, or **7.4** depending on which version is required.
 
 ```sh
-./phpswith.sh 5.6
+./phpswitch.sh 5.6
 ```
